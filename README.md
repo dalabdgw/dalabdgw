@@ -1,9 +1,9 @@
 ## Welcome to Data Analytics Lab Github 👋
-Hi there👋, We are a Data Analytics Lab in Dongguk University, South Korea.<br>
+Hi there👋, We are a Data Analytics Lab in Dongguk University WISE, South Korea. Our research interests include Deep Learning, Data Mining, Machine-Learning, Playing Related Musculoskeletals (PRMDs), Automatic Composition, Music E-Learning, Sound-Data Analysis, Music Information Retrieval (MIR). <br>
 
 |Team|Name|Position|GitHub|Blog|
 |:--:|:--:|:--:|:--:|:--:|
-|<img src="https://drive.google.com/file/d/1k3ujsVm5JpHursbOxRh1RUgzvi33A9Aw/view?usp=drive_link" width="110">|So-Hyun Park|Professor|Here||
+|<img src="https://drive.google.com/file/d/1k3ujsVm5JpHursbOxRh1RUgzvi33A9Aw/view?usp=drive_link" width="110">|So-Hyun Park|Assistant Professor|Here||
 |![Pic](https://github.com/dalabdgw/dalabdgw/assets/135303032/191c66f7-3ab6-480d-a50c-d0fe26cecbc1)|Yeong-Min Ko|Undergraduate Researcher|<a href="https://github.com/PSLeon24">GitHub</a>|<a href="https://psleon.tistory.com/">Tistory</a>|
 |<img src="https://github.com/dalabdgw/dalabdgw/assets/135303032/95566539-02d1-4aa3-917b-ad6009b8b9ae" width="110">|Min-Seo Park|Undergraduate Researcher|<a href="https://github.com/minseo2000">GitHub</a>|<a href="https://simsimit00.tistory.com/">Tistory</a>|
 |<img src="https://github.com/dalabdgw/dalabdgw/assets/135303032/89d855b9-7521-4f81-9b5f-ab5dc05b840a" width="110">|Chan-Yeob Park|Undergraduate Researcher|To be added|To be added|
