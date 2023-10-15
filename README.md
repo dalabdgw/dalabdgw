@@ -23,21 +23,19 @@ Hi there👋, We are a Data Analytics Lab in Dongguk University WISE, South Kore
 
 ## 🔥 Projects
 
-1. Project Leader (by Ministry of Science and Technology Information and Communication)
+1. Research on development of artificial intelligence technology for untact music education in a mass environment
+- Project Leader (by Ministry of Science and Technology Information and Communication)
 - Title: Research on development of artificial intelligence technology for untact music education in a mass environment
-- Funding: 469,500,000 Korean Won (392,048 USD)
 - Duty : Research & Development, Administrative Processing
 - Period : 03/2021 - 02/2026
 
-2. Project Leader (by Ministry of Education)
-- Title: Study on relationship between piano playing posture and sound based on LSTM
-- Funding: 20,000,000 Korean Won (16,700 USD)
+2. A Study on relationship between piano playing posture and sound based on LSTM
+- Project Leader (by Ministry of Education)
 - Duty : Research & Development, Administrative Processing
 - Period : 09/2019 - 02/2020
 
-3. Project Leader (by Department of Science, ICT and Future Planning)
-- Title: A study on the piano education system for children using Kinect
-- Funding: 5,000,000 Korean Won (120,000 USD)
+3. A study on the piano education system for children using Kinect
+- Project Leader (by Department of Science, ICT and Future Planning)
 - Duty : Research & Development, Administrative Processing
 - Period : 05/2015 - 02/2020
 
