@@ -9,7 +9,10 @@ Hi there👋, We are a Data Analytics Lab in Dongguk University WISE, South Kore
 |<img src="https://github.com/dalabdgw/dalabdgw/assets/135303032/89d855b9-7521-4f81-9b5f-ab5dc05b840a" width="110">|Chan-Yeob Park|Undergraduate Researcher|<a href="https://github.com/p-chanyeop">GitHub</a>|<a href="https://dev-chanyeop.tistory.com/">Tistory</a>|
 |<img src="https://github.com/dalabdgw/dalabdgw/assets/135303032/bf1b55d2-600b-4637-9704-17c3dd740885" width="110">|Jae-Heon Chung|Undergraduate Researcher|<a href="https://github.com/DonggukGG">GitHub</a>|To be added|
 
-
+## ✍️ Recently
+|Sound Performance Evaluation|Data Acquisition Application|
+|:--:|:--:|
+|<b>Meta quest-based virtual piano educational environment</b>|<b>Posture Performance Evaluation</b>|
 
 ## 📘 Papers
 
