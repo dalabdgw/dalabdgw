@@ -10,7 +10,7 @@ Hi there👋, We are a Data Analytics Lab in Dongguk University WISE, South Kore
 |<img src="https://github.com/dalabdgw/dalabdgw/assets/135303032/bf1b55d2-600b-4637-9704-17c3dd740885" width="110">|Jae-Heon Chung|Undergraduate Researcher|<a href="https://github.com/DonggukGG">GitHub</a>|To be added|
 
 ## ✍️ Recently
-|Sound Performance Evaluation|Data Acquisition Application|
+|Sound Performance Evaluation|Data Acquisition Application|<img src="https://drive.google.com/file/d/1ywYXDUsUrXrZISTUnmV6PTlHPIRbxdMS/view?usp=drive_link" width="110">|
 |:--:|:--:|
 |<b>Meta quest-based virtual piano educational environment</b>|<b>Posture Performance Evaluation</b>|
 
