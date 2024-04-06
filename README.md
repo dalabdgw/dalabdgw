@@ -12,7 +12,7 @@ Hi there👋, We are a Data Analytics Lab in Dongguk University WISE, South Kore
 ## ✍️ Recently
 |Piano Performance Evaluation|Data Acquisition Application|
 |:--:|:--:|
-|<b>Piano Training Environment on <br>Vitual/Augmented Reality</b>|<b>Posture Evaluation</b>|
+|<b>Piano Training Environment on <br>Vitual/Augmented Reality</b>|<b>Exercise Posture Evaluation</b>|
 
 ## 📘 Papers
 
