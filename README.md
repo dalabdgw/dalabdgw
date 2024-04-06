@@ -2,7 +2,7 @@
 Hi there👋, We are a Data Analytics Lab in Dongguk University WISE, South Korea. Our research interests include Deep Learning, Data Mining, Machine-Learning, Playing Related Musculoskeletals (PRMDs), Automatic Composition, Music E-Learning, Sound-Data Analysis, Music Information Retrieval (MIR). <br>
 
 |Team|Name|Position|GitHub|Blog|Duty|
-|:--:|:--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|:--:|:--:|:--:|
 |<img src="https://github.com/dalabdgw/dalabdgw/assets/135303032/922a5028-e78b-45f9-b42c-1edfae2a95e0" width="110">|So-Hyun Park|Assistant Professor|Here|||
 |![Pic](https://github.com/dalabdgw/dalabdgw/assets/135303032/191c66f7-3ab6-480d-a50c-d0fe26cecbc1)|Yeong-Min Ko|Undergraduate Researcher|<a href="https://github.com/PSLeon24">GitHub</a>|<a href="https://psleon.tistory.com/">Tistory</a>|Piano Performance Evaluation, Exercise Posture Performance Evaluation|
 |<img src="https://github.com/dalabdgw/dalabdgw/assets/135303032/95566539-02d1-4aa3-917b-ad6009b8b9ae" width="110">|Min-Seo Park|Undergraduate Researcher|<a href="https://github.com/minseo2000">GitHub</a>|<a href="https://simsimit00.tistory.com/">Tistory</a>|||
