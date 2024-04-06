@@ -16,14 +16,14 @@ Hi there👋, We are a Data Analytics Lab in Dongguk University WISE, South Kore
 
 ## 📘 Papers
 
-1.	[SCI, IF: 2.474] So-Hyun Park, Mi-Yeon Kim*, Yeon-Ji Kim, Young-Ho Park*, "A Deep Learning Approach to Analyze Airline Customer Propensities: The Case of South Korea", Applied Sciences (MDPI), Vol. 12, No. 4, Accepted on 7 February 2022, Published on 12 February 2022. 
-2.	[SCI, IF: 2.474] Hye-Jin Lee, Sun-Young Ihm, So-Hyun Park*, Young-Ho Park*, "An Analytic Method for Improving the Reliability of Models Based-on a Histogram for Prediction of Companion Dog’s Behaviors", Applied Sciencess (MDPI), Vol. 11, No. 22, Accepted on 16 November 2021, Published on 22 November 2021. 
-3.	[SCI, IF: 2.474] Sun-Young Ihm, Shin-Eun Lee, Young-Ho Park , Aziz Nasridinov, Miyeon Kim and So-Hyun Park*, "A Technique of Recursive Reliability-Based Missing Data Imputation for Collaborative Filtering", Applied Sciences (MDPI), Vol. 11, No. 8, Accepted on 16 April 2021, Published on 20 April 2021. 
-4.	[SCIE, IF: 2.044] Sun-Young Ihm, So-Hyun Park, Young-Ho Park*. "UB-H: an unbalanced-hierarchical layer binary-wise construction method for high-dimensional data". Computing (2021) (SPRINGER), Accepted on November 12, 2020, Published January 06, 2021. 
-5.	[SCIE, IF: 2.474] So-Hyun Park and Young-Ho Park*, "AV-TFN: Audio-Visual Tensor Fusion Network for Piano Posture Classification", Applied Sciences (MDPI), Vol. 10, No. 19, Accepted on September 28, 2020, Published on September 29, 2020.
-6.	S. H. Park, S. Y. Ihm, Y. H. Park, A. Nasridinov, “A Feasibility Test on Preventing PRMDs based on Deep Learning,” The Thirty-Third AAAI Conference on Artificial Intelligence (AAAI-19), pp. 10005-10006, Hawaii, USA, January 2019.
-7.	[SCIE, IF: 0.906] So-Hyun Park, Gwang-Soo Hong, Sun-Woo Park, Aziz Nasridinov, In-Ja Park, Byung-Kyu Kim, and Young-Ho Park*, "A Feasibility Study of Ballet Education using Measurement and Analysis on Partial Features of Still Scenes," International Journal of Distributed Sensor Network (SAGE), Vol. 12, No. 12, Published on December 9, 2016.
-8.	[SCIE, IF: 0.180] So-Hyun Park, Aziz Nasridinov and Young-Ho Park*, "A Kinect Based Piano Education System for Correction of Pianist Posture," Asia Life Science Journal, Supplement 12: pp. 571-586, Published on December, 2015.
+1.	[SCI, IF: 2.474] So-Hyun Park et al., "A Deep Learning Approach to Analyze Airline Customer Propensities: The Case of South Korea", Applied Sciences (MDPI), Vol. 12, No. 4, Accepted on 7 February 2022, Published on 12 February 2022. 
+2.	[SCI, IF: 2.474] So-Hyun Park et al., "An Analytic Method for Improving the Reliability of Models Based-on a Histogram for Prediction of Companion Dog’s Behaviors", Applied Sciencess (MDPI), Vol. 11, No. 22, Accepted on 16 November 2021, Published on 22 November 2021. 
+3.	[SCI, IF: 2.474] So-Hyun Park et al., "A Technique of Recursive Reliability-Based Missing Data Imputation for Collaborative Filtering", Applied Sciences (MDPI), Vol. 11, No. 8, Accepted on 16 April 2021, Published on 20 April 2021. 
+4.	[SCIE, IF: 2.044] So-Hyun Park et al., "UB-H: an unbalanced-hierarchical layer binary-wise construction method for high-dimensional data". Computing (2021) (SPRINGER), Accepted on November 12, 2020, Published January 06, 2021. 
+5.	[SCIE, IF: 2.474] So-Hyun Park et al., "AV-TFN: Audio-Visual Tensor Fusion Network for Piano Posture Classification", Applied Sciences (MDPI), Vol. 10, No. 19, Accepted on September 28, 2020, Published on September 29, 2020.
+6.	S. H. Park et al., “A Feasibility Test on Preventing PRMDs based on Deep Learning,” The Thirty-Third AAAI Conference on Artificial Intelligence (AAAI-19), pp. 10005-10006, Hawaii, USA, January 2019.7.
+7.	[SCIE, IF: 0.906] So-Hyun Park et al., "A Feasibility Study of Ballet Education using Measurement and Analysis on Partial Features of Still Scenes," International Journal of Distributed Sensor Network (SAGE), Vol. 12, No. 12, Published on December 9, 2016.
+8.	[SCIE, IF: 0.180] So-Hyun Park et al., "A Kinect Based Piano Education System for Correction of Pianist Posture," Asia Life Science Journal, Supplement 12: pp. 571-586, Published on December, 2015.
 
 
 ## 🔥 Projects
