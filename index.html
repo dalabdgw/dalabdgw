@@ -3,18 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Graduates List</title>
+    <title>졸업생</title>
     <style>
         body {
             font-family: Arial, sans-serif;
         }
-        #graduates-list {
-            display: none;
-            margin-top: 20px;
-        }
         table {
             width: 100%;
             border-collapse: collapse;
+            margin-top: 20px;
         }
         table, th, td {
             border: 1px solid black;
@@ -23,18 +20,11 @@
             padding: 10px;
             text-align: center;
         }
-        button {
-            padding: 10px 20px;
-            font-size: 16px;
-            cursor: pointer;
-            margin-top: 20px;
-        }
     </style>
 </head>
 <body>
 
-    <h1>Graduates List</h1>
-    <button onclick="toggleGraduates()">Show Graduates</button>
+    <h1>졸업생</h1>
 
     <div id="graduates-list">
         <table>
@@ -80,17 +70,6 @@
             </tr>
         </table>
     </div>
-
-    <script>
-        function toggleGraduates() {
-            var list = document.getElementById("graduates-list");
-            if (list.style.display === "none") {
-                list.style.display = "block";
-            } else {
-                list.style.display = "none";
-            }
-        }
-    </script>
 
 </body>
 </html>
