@@ -6,7 +6,7 @@ Hi there👋, We are a Data Analytics Lab in Dongguk University WISE, South Kore
 |:--:|:--:|:--:|:--:|:--:|:--:|
 |<img src="https://github.com/dalabdgw/dalabdgw/assets/135303032/922a5028-e78b-45f9-b42c-1edfae2a95e0" width="110">|So-Hyun Park|Assistant Professor</br><a href="https://drive.google.com/file/d/1kw5tvHItU9DPOKlPWwTunIRVbCAJ27hM/view?usp=sharing">CV</a>|Here|To be added|Artificial Intelligence, <br>Big Data, <br>Database|
 |<img src="https://github.com/dalabdgw/dalabdgw/assets/135303032/01e4ce7b-cbfb-43a0-9606-366b37a5f98c" width="110">|Dong-Min Kim|Undergraduate Researcher|<a href="#">GitHub</a>|To be added|Artificial Intelligence|
-|<img src="https://github.com/dalabdgw/dalabdgw/assets/135303032/01e4ce7b-cbfb-43a0-9606-366b37a5f98c" width="110">|Jae-Min Lee|Undergraduate Researcher|<a href="#">GitHub</a>|To be added|Artificial Intelligence|
+|<img src="https://github.com/user-attachments/assets/7bf1322e-165a-4af0-9935-1a58d34cf138" width="110">|Jae-Min Lee|Undergraduate Researcher|<a href="#">GitHub</a>|To be added|Artificial Intelligence|
 |<img src="https://github.com/dalabdgw/dalabdgw/assets/135303032/d78c8530-7476-40bc-b6d9-21f77c593be6" width="110">|Ju-Chan Kim|Undergraduate Researcher|<a href="#">GitHub</a>|To be added|Artificial Intelligence|
 
 ## ✍️ Recently
