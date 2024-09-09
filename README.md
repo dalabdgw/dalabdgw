@@ -1,7 +1,7 @@
 ## Welcome to Data Analytics Lab Github 👋
 Hi there👋, We are a Data Analytics Lab in Dongguk University WISE, South Korea. Our research interests include Deep Learning, Data Mining, Machine-Learning, Playing Related Musculoskeletals (PRMDs), Automatic Composition, Music E-Learning, Sound-Data Analysis, Music Information Retrieval (MIR). <br>
 
-[![Show Graduates](https://img.shields.io/badge/Show-Graduates-blue?style=for-the-badge)](https://dalabdgw.github.io/dalabdgw/)
+[![Graduates](https://img.shields.io/badge/Show-Graduates-blue?style=for-the-badge)](https://dalabdgw.github.io/dalabdgw/)
 |Team|Name|Position|GitHub|Blog|Research Interests|
 |:--:|:--:|:--:|:--:|:--:|:--:|
 |<img src="https://github.com/dalabdgw/dalabdgw/assets/135303032/922a5028-e78b-45f9-b42c-1edfae2a95e0" width="110">|So-Hyun Park|Assistant Professor</br><a href="https://drive.google.com/file/d/1kw5tvHItU9DPOKlPWwTunIRVbCAJ27hM/view?usp=sharing">CV</a>|Here|To be added|Artificial Intelligence, <br>Big Data, <br>Database|
