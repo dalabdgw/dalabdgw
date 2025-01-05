@@ -15,15 +15,16 @@ Hi there👋, We are a Data Analytics Lab in Dongguk University WISE, South Kore
 |<b>Piano Training Environment on <br>Vitual/Augmented Reality</b>|<b>Exercise Posture Evaluation</b>|
 
 ## 📘 Papers
-
-1.	[SCI, IF: 2.474] So-Hyun Park et al., "A Deep Learning Approach to Analyze Airline Customer Propensities: The Case of South Korea", Applied Sciences (MDPI), Vol. 12, No. 4, Accepted on 7 February 2022, Published on 12 February 2022. 
-2.	[SCI, IF: 2.474] So-Hyun Park et al., "An Analytic Method for Improving the Reliability of Models Based-on a Histogram for Prediction of Companion Dog’s Behaviors", Applied Sciencess (MDPI), Vol. 11, No. 22, Accepted on 16 November 2021, Published on 22 November 2021. 
-3.	[SCI, IF: 2.474] So-Hyun Park et al., "A Technique of Recursive Reliability-Based Missing Data Imputation for Collaborative Filtering", Applied Sciences (MDPI), Vol. 11, No. 8, Accepted on 16 April 2021, Published on 20 April 2021. 
-4.	[SCIE, IF: 2.044] So-Hyun Park et al., "UB-H: an unbalanced-hierarchical layer binary-wise construction method for high-dimensional data". Computing (2021) (SPRINGER), Accepted on November 12, 2020, Published January 06, 2021. 
-5.	[SCIE, IF: 2.474] So-Hyun Park et al., "AV-TFN: Audio-Visual Tensor Fusion Network for Piano Posture Classification", Applied Sciences (MDPI), Vol. 10, No. 19, Accepted on September 28, 2020, Published on September 29, 2020.
-6.	S. H. Park et al., “A Feasibility Test on Preventing PRMDs based on Deep Learning,” The Thirty-Third AAAI Conference on Artificial Intelligence (AAAI-19), pp. 10005-10006, Hawaii, USA, January 2019.7.
-7.	[SCIE, IF: 0.906] So-Hyun Park et al., "A Feasibility Study of Ballet Education using Measurement and Analysis on Partial Features of Still Scenes," International Journal of Distributed Sensor Network (SAGE), Vol. 12, No. 12, Published on December 9, 2016.
-8.	[SCIE, IF: 0.180] So-Hyun Park et al., "A Kinect Based Piano Education System for Correction of Pianist Posture," Asia Life Science Journal, Supplement 12: pp. 571-586, Published on December, 2015.
+1.  [SCI, IF: 3.557] So-Hyun Park et al., "Real-Time AI Posture Correction for Powerlifting Exercises Using YOLOv5 and MediaPipe", IEEE Access (IEEE), Vol.12, Accepted on 8 December 2024, Published on 13 December 2024.
+2.  [SCI, IF: 3.3] So-Hyun Park et al., "Analyzing Internal and External Factors in Livestock Supply Forecasting Using Machine Learning: Sustainable Insights from South Korea", Sustainability (MDPI), Vol. 16, No. 16, Accepted on 7 August 2024, Published on 12 August 2024.
+4.	[SCI, IF: 2.474] So-Hyun Park et al., "A Deep Learning Approach to Analyze Airline Customer Propensities: The Case of South Korea", Applied Sciences (MDPI), Vol. 12, No. 4, Accepted on 7 February 2022, Published on 12 February 2022. 
+5.	[SCI, IF: 2.474] So-Hyun Park et al., "An Analytic Method for Improving the Reliability of Models Based-on a Histogram for Prediction of Companion Dog’s Behaviors", Applied Sciencess (MDPI), Vol. 11, No. 22, Accepted on 16 November 2021, Published on 22 November 2021. 
+6.	[SCI, IF: 2.474] So-Hyun Park et al., "A Technique of Recursive Reliability-Based Missing Data Imputation for Collaborative Filtering", Applied Sciences (MDPI), Vol. 11, No. 8, Accepted on 16 April 2021, Published on 20 April 2021. 
+7.	[SCIE, IF: 2.044] So-Hyun Park et al., "UB-H: an unbalanced-hierarchical layer binary-wise construction method for high-dimensional data". Computing (2021) (SPRINGER), Accepted on November 12, 2020, Published January 06, 2021. 
+8.	[SCIE, IF: 2.474] So-Hyun Park et al., "AV-TFN: Audio-Visual Tensor Fusion Network for Piano Posture Classification", Applied Sciences (MDPI), Vol. 10, No. 19, Accepted on September 28, 2020, Published on September 29, 2020.
+9.	S. H. Park et al., “A Feasibility Test on Preventing PRMDs based on Deep Learning,” The Thirty-Third AAAI Conference on Artificial Intelligence (AAAI-19), pp. 10005-10006, Hawaii, USA, January 2019.7.
+10.	[SCIE, IF: 0.906] So-Hyun Park et al., "A Feasibility Study of Ballet Education using Measurement and Analysis on Partial Features of Still Scenes," International Journal of Distributed Sensor Network (SAGE), Vol. 12, No. 12, Published on December 9, 2016.
+11.	[SCIE, IF: 0.180] So-Hyun Park et al., "A Kinect Based Piano Education System for Correction of Pianist Posture," Asia Life Science Journal, Supplement 12: pp. 571-586, Published on December, 2015.
 
 
 ## 🔥 Projects
