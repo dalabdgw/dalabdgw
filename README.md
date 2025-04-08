@@ -8,6 +8,7 @@ Hi there👋, We are a Data Analytics Lab in Dongguk University WISE, South Kore
 |<img src="https://github.com/dalabdgw/dalabdgw/assets/135303032/01e4ce7b-cbfb-43a0-9606-366b37a5f98c" width="110">|Dong-Min Kim|Undergraduate Researcher|<a href="https://github.com/kdmin1325">GitHub</a>|To be added|Artificial Intelligence|
 |<img src="https://github.com/user-attachments/assets/7bf1322e-165a-4af0-9935-1a58d34cf138" width="110">|Jae-Min Lee|Undergraduate Researcher|<a href="https://github.com/CheatIsKey">GitHub</a>|To be added|Artificial Intelligence|
 |<img src="https://github.com/dalabdgw/dalabdgw/assets/135303032/d78c8530-7476-40bc-b6d9-21f77c593be6" width="110">|Ju-Chan Kim|Undergraduate Researcher|<a href="https://github.com/jc0818">GitHub</a>|To be added|Artificial Intelligence|
+|<img src="https://github.com/user-attachments/assets/f33659af-a675-4303-9b44-a65ce6fc65fb" width="110">|Chae-Eun Lim|Undergraduate Researcher|<a href="https://github.com/lce0517">GitHub</a>|To be added|Artificial Intelligence|
 
 ## ✍️ Recently
 |Piano Performance Evaluation|Data Acquisition Application|
