@@ -6,8 +6,11 @@ Hi there👋, We are a Data Analytics Lab in Dongguk University WISE, South Kore
 |:--:|:--:|:--:|:--:|:--:|:--:|
 |<img src="https://github.com/dalabdgw/dalabdgw/assets/135303032/922a5028-e78b-45f9-b42c-1edfae2a95e0" width="110">|So-Hyun Park|Assistant Professor</br><a href="https://drive.google.com/file/d/1kw5tvHItU9DPOKlPWwTunIRVbCAJ27hM/view?usp=sharing">CV</a>|Here|To be added|Artificial Intelligence, <br>Big Data, <br>Database|
 |<img src="https://github.com/dalabdgw/dalabdgw/assets/135303032/01e4ce7b-cbfb-43a0-9606-366b37a5f98c" width="110">|Dong-Min Kim|Undergraduate Researcher|<a href="https://github.com/kdmin1325">GitHub</a>|To be added|Artificial Intelligence|
-|<img src="https://github.com/user-attachments/assets/7bf1322e-165a-4af0-9935-1a58d34cf138" width="110">|Jae-Min Lee|Undergraduate Researcher|<a href="https://github.com/CheatIsKey">GitHub</a>|To be added|Artificial Intelligence|
 |<img src="https://github.com/user-attachments/assets/f33659af-a675-4303-9b44-a65ce6fc65fb" width="110">|Chae-Eun Lim|Undergraduate Researcher|<a href="https://github.com/lce0517">GitHub</a>|To be added|Artificial Intelligence|
+|<img src="https://github.com/user-attachments/assets/44c3e38e-9763-4c43-8bad-ae694624d412" width="110">|Tae-Young Lee|Undergraduate Researcher|<a href="https://github.com/leetae04kr">GitHub</a>|To be added|Artificial Intelligence, <br>ML Optimization|
+|<img src="https://github.com/user-attachments/assets/77b923e4-507e-4e3b-b9c3-4c0cf618e7a7" width="110">|Jeong-Ho Chae|Undergraduate Researcher|<a href="https://github.com/Tovic-Chai">GitHub</a>|To be added|Artificial Intelligence|
+|<img src="TO_BE_ADDED" width="110">|Woo-Sol Park|Undergraduate Researcher|<a href="https://github.com/buchlesewahn">GitHub</a>|To be added|Artificial Intelligence|
+
 
 ## ✍️ Recently
 |Piano Performance Evaluation|Data Acquisition Application|
